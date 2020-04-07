@@ -13,12 +13,13 @@ a {
 
 .container {
   width: 100%;
-  padding: 0 15px;
+  padding: 2px 15px;
   margin: 0 auto;
+  color: white;
 }
 
 .top-wrapper {
-  padding: 150px 0 100px 0;
+  padding: 120px 0 100px 0;
   background-image: url(top.png);
   background-size: cover;
   color: white;
