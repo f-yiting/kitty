@@ -19,8 +19,7 @@ a {
 }
 
 .top-wrapper {
-  padding: 120px 0 100px 0;
-  margin: 0 auto;
+  padding: 110px 0 100px 0;
   background-image: url(top.png);
   background-size: cover;
   color: white;
